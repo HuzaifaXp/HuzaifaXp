@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Huzaifa 👋
 
-<!--
-**HuzaifaXp/HuzaifaXp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst | Python | SQL | Machine Learning
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile. I build data analysis and machine learning projects to solve real-world business problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Python
+- Pandas
+- NumPy
+- SQL
+- Data Analysis
+- Machine Learning
+- Data Visualization
+- Jupyter Notebook
+
+## Projects
+
+### ✈️ Airline Passenger Satisfaction Prediction
+- Built a machine learning classification model.
+- Achieved 94.96% accuracy using Random Forest.
+
+### 📊 Sales Analysis Project
+- Analysed retail sales data using Python.
+- Created insights on revenue, profit, categories and trends.
+
+### 👥 HR Analytics Project
+- Analysed employee attrition and workforce patterns.
+- Studied salary, department and job role insights.
+
+## Tools
+
+Python | SQL | GitHub | Jupyter | Excel
+
+## Contact
+
+Open to Data Analyst opportunities.
